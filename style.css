@@ -47,12 +47,12 @@ p:not(:first-of-type) {
 
 /* ::before Psuedo-element */
 ul li::before {
-    content: "🚀";
+    content: "";
 }
 
 /* ::after Psuedo-element */
 a::after {
-    content: "🌌";
+    content: "";
 }
 
 /* ::first-letter Psuedo-element */
